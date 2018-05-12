@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    width: 900px;
+     margin:0px auto;
+}
+.dong:hover{
+    transform:rotate(90deg);
+}
+.do{
+      width: 300px;
+    float: left;
+}
+.zy{
+    height: 2000px;
+}
